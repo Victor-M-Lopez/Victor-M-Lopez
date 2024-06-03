@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, music, and programming
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me victor.l.rodas14@gmail.com
+- 📫 How to reach me contact@victorlopez.me
 
 <!---
 Victor-M-Lopez/Victor-M-Lopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
